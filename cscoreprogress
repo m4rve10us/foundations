@@ -1,0 +1,35 @@
+# 📈 CS Progress Tracker
+
+Documenting my independent study of Binghamton University's CS core curriculum through self-directed learning, projects, and open-source resources.
+
+---
+
+## 🔹 Legend
+
+- ✅ Complete
+- 🟡 In Progress
+- 🔲 Not Started
+
+---
+
+## 🧱 Core Courses
+
+| Course Code | Topic                                | Status | Primary Resource(s)                                    | Deliverable(s) |
+|-------------|----------------------------------------|--------|--------------------------------------------------------|----------------|
+| CS 101      | Ethics & CS Trends                    | 🟡     | Stanford HAI, AI Alignment resources                   | Notion reflection post |
+| CS 120      | Programming & Hardware Fundamentals   | ✅     | CS50, Nand2Tetris (up to proj 6)                       | Python + C projects |
+| CS 210      | Programming with Objects & Data       | ✅     | fast.ai, Exercism OOP tracks                           | Class-based app |
+| CS 220      | Architecture from a Prog Perspective  | 🟡     | Nand2Tetris, Ripes CPU sim                             | CPU flow diagram |
+| CS 310      | Data Structures & Algorithms          | 🟡     | LeetCode, Grokking Algorithms                          | 20+ solved problems |
+| CS 320      | Advanced Computer Architecture        | 🔲     | CMU lectures, YouTube pipeline explainers              | Blog: pipelining explainer |
+| CS 350      | Operating Systems                     | 🔲     | MIT 6.828, OS dev notes                                | Deadlock simulator |
+| CS 373      | Automata Theory & Formal Languages    | 🔲     | Stanford Automata series, regex notebooks              | FSM visualizer |
+| CS 375      | Design & Analysis of Algorithms       | 🟡     | MIT 6.006, AlgoExpert                                   | Greedy vs DP comparisons |
+| CS 471      | Programming Languages                 | 🔲     | Crafting Interpreters, Python vs JS exploration        | Mini Lisp / parser sketch |
+
+---
+
+## 🔁 Last Updated: 06/01/2025
+
+> 📌 I’ll continue updating this as I complete deliverables and push project files across `foundations`, `neurite`, and `labframe`.
+
