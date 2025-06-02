@@ -1,8 +1,7 @@
 # foundations
 This is my personal sandbox to develop and cultivate core skills--emphasizing comprehensive practice to achieve mastery employing Python-based frameworks.
 
-Level 1: 
-
+Level 1: [CS Progress Tracker](./progress.md)
 
 Level 2: Machine Learning Fundamentals 💡
 
